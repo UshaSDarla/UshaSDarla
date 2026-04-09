@@ -19,7 +19,7 @@ I build scalable data pipelines, automate validation checks, and create analytic
 ## Featured Projects
 - [AWS to Snowflake ETL Pipeline](https://github.com/yourusername/aws-snowflake-etl-pipeline)
 - [Data Quality Validation Framework](https://github.com/yourusername/data-quality-validation-framework)
-- [SQL Business Case Studies](https://github.com/yourusername/sql-business-case-studies)
+- [SQL Business Case Studies](https://github.com/UshaSDarla/sql-business-case-studies)
 
 ## Focus Areas
 - ETL / ELT pipelines
