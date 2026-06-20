@@ -28,5 +28,5 @@ I build scalable data pipelines, automate validation checks, and create analytic
 - Reporting and analytics automation
 
 ## Contact
-- LinkedIn: [Add your LinkedIn link]
+- LinkedIn: https://www.linkedin.com/in/ushasri-d-73ab94149/
 - Email: darlaushasri@gmail.com
